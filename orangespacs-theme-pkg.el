@@ -1,0 +1,1 @@
+(define-package "orangespacs-theme" "1.0" "Spacemacs theme with high contrast enhanced colors." 'nil :url "https://github.com/JayZar21/orangespacs.git" :keywords '("color" "theme"))
